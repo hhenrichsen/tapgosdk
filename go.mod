@@ -1,6 +1,6 @@
 module github.com/GPeye/tapgosdk
 
-go 1.22.1
+go 1.23.3
 
 require tinygo.org/x/bluetooth v0.10.0
 
