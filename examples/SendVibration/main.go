@@ -3,7 +3,7 @@ package main
 import (
 	"time"
 
-	"github.com/GPeye/tapgosdk"
+	"github.com/hhenrichsen/tapgosdk"
 )
 
 type onTapped struct{}

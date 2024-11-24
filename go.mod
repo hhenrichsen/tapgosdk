@@ -1,4 +1,4 @@
-module github.com/GPeye/tapgosdk
+module github.com/hhenrichsen/tapgosdk
 
 go 1.23.3
 

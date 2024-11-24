@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/GPeye/tapgosdk"
-	"github.com/GPeye/tapgosdk/events"
+	"github.com/hhenrichsen/tapgosdk"
+	"github.com/hhenrichsen/tapgosdk/events"
 )
 
 type onRaw struct{}

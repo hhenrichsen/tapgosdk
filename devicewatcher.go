@@ -3,7 +3,7 @@ package tapgosdk
 import (
 	"time"
 
-	"github.com/GPeye/tapgosdk/events"
+	"github.com/hhenrichsen/tapgosdk/events"
 	"tinygo.org/x/bluetooth"
 )
 
